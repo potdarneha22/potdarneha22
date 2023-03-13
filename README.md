@@ -14,19 +14,18 @@
     
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logocolor=orange)
-![Css 3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![Markdown](https://img.shields.io/badge/MARKDOWN-000?style=for-the-badge&logo=markdown&logoColor=green)
+![C](https://img.shields.io/badge/language-C-000000.svg?style=for-the-badge&logo=C)
+![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=orange&color=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=black)
 
 #### Design/Development Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-000?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-000?style=for-the-badge&logo=sublime-text&logoColor=orange)
 ![Anaconda](https://img.shields.io/badge/Anaconda-20232A?style=for-the-badge&logo=anaconda&logoColor=44A833)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=green&color=black)
+
 
 
 
