@@ -30,7 +30,7 @@
 
 
     
-#### Database/State
+#### Database
 ![Firebase](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
 
 #### Version Control
