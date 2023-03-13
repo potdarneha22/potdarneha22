@@ -1,8 +1,8 @@
 <div align="center">
 
 <img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/QdYVeDStxnrvfpmvef/giphy.gif">
-<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media0.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media3.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif">
 
 
 ## Hi, I am   NEHA.🙂 
@@ -55,8 +55,8 @@
  
 
 [<img src='https://github.com/potdarneha22/potdarneha22/blob/main/1298743_github_git_logo_social_icon.png' alt='github' height='40'>](https://github.com/potdarneha22/) &nbsp; 
-    [<img src='https://github.com/Nishant2116/Nishant2116/blob/e20eea6b0bb7b1165e8536f6bc6387b7cf7d7e5d/.github/workflows/5296501_linkedin_network_linkedin%20logo_icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/neha-potdar-45b385191/) &nbsp;
-[<img src='https://github.com/Nishant2116/Nishant2116/blob/23fd4f57e1c99cee4fd5911d7c143bee40a9111a/.github/workflows/5296765_camera_instagram_instagram%20logo_icon.png' alt='instagram' height='40'>](https://www.instagram.com/_nd_216/)&nbsp;
+    [<img src='https://github.com/potdarneha22/potdarneha22/blob/main/5296501_linkedin_network_linkedin%20logo_icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/neha-potdar-45b385191/) &nbsp;
+[<img src='https://github.com/potdarneha22/potdarneha22/blob/main/5296765_camera_instagram_instagram%20logo_icon.png' alt='instagram' height='40'>](https://www.instagram.com/nehap22_/)&nbsp;
 
  
 </div>
