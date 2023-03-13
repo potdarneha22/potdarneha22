@@ -54,7 +54,7 @@
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px"></h4>
  
 
-[<img src='https://github.com/Nishant2116/Nishant2116/blob/c5ffe6604261938017356acac2a78ca372087bef/.github/workflows/1298743_github_git_logo_social_icon.png' alt='github' height='40'>](https://github.com/Nishant2116) &nbsp; [<img src='https://github.com/Nishant2116/Nishant2116/blob/e20eea6b0bb7b1165e8536f6bc6387b7cf7d7e5d/.github/workflows/5296501_linkedin_network_linkedin%20logo_icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nishant-deshmukh-1a3836185/) &nbsp;
+[<img src='https://github.com/Nishant2116/Nishant2116/blob/c5ffe6604261938017356acac2a78ca372087bef/.github/workflows/1298743_github_git_logo_social_icon.png' alt='github' height='40'>](https://github.com/Nishant2116) &nbsp; [<img src='https://github.com/Nishant2116/Nishant2116/blob/e20eea6b0bb7b1165e8536f6bc6387b7cf7d7e5d/.github/workflows/5296501_linkedin_network_linkedin%20logo_icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/neha-potdar-45b385191/) &nbsp;
 [<img src='https://github.com/Nishant2116/Nishant2116/blob/23fd4f57e1c99cee4fd5911d7c143bee40a9111a/.github/workflows/5296765_camera_instagram_instagram%20logo_icon.png' alt='instagram' height='40'>](https://www.instagram.com/_nd_216/)&nbsp;
 
  
@@ -62,6 +62,5 @@
 <div>
 
 #
-![@nishant216's Holopin board](https://holopin.io/api/user/board?user=nishant216)
 
 </div>
